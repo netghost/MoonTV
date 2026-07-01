@@ -6,6 +6,10 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    "xiaomaomi": {
+      "api": "https://floral-silence-8972.netghost2048.workers.dev?format=0&source=full",
+      "name": "pz-v88"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
@@ -84,10 +88,6 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    },
-    "xiaomaomi": {
-      "api": "https://floral-silence-8972.netghost2048.workers.dev?format=0&source=full",
-      "name": "pz-v88"
     }
   }
 }
